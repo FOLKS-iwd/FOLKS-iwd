@@ -115,21 +115,8 @@ me = OffensiveSecurityEngineer()
 
 <br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"> GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOLKS-iwd&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00ccff&text_color=e0e0f0&ring_color=00ff88" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOLKS-iwd&hide_border=true&background=0a0a0f&ring=00ff88&fire=00ccff&currStreakLabel=00ff88&sideLabels=e0e0f0&currStreakNum=e0e0f0&dates=8888aa&sideNums=00ff88" width="48%" />
+  <img src="https://media.tenor.com/E3v4j9VZuSwAAAAi/cute-cat-cat-typing.gif" width="120" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FOLKS-iwd&bg_color=0a0a0f&color=00ff88&line=00ccff&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FOLKS-iwd&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" width="98%" />
-</p>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00ff88,100:00ccff&height=120&section=footer" />
