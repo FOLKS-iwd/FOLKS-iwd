@@ -116,7 +116,7 @@ me = OffensiveSecurityEngineer()
 <br>
 
 <p align="center">
-  <img src="https://media.tenor.com/E3v4j9VZuSwAAAAi/cute-cat-cat-typing.gif" width="120" />
+  <img src="https://media.tenor.com/E3v4j9VZuSwAAAAi/cute-cat-cat-typing.gif" width="250" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00ff88,100:00ccff&height=120&section=footer" />
