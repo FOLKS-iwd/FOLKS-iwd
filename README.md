@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00ff88,100:00ccff&height=200&section=header&text=Alaaeddine%20Knani&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Offensive%20Security%20Engineer%20%7C%204x%20CVE%20%7C%20CTF%20Champion&descSize=16&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00ff88,100:00ccff&height=200&section=header&text=Alaaeddine%20Knani&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Offensive%20Security%20Engineer%20%7C%204x%20CVE%20%7C%20CTF%20Player&descSize=16&descAlignY=55" />
 
 <p align="center">
   <a href="https://folks-iwd.github.io"><img src="https://img.shields.io/badge/Portfolio-2d8a5e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
