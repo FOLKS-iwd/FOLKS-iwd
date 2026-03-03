@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00ff88,100:00ccff&height=200&section=header&text=Alaaeddine%20Knani&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Offensive%20Security%20Engineer%20%7C%204x%20CVE%20%7C%20CTF%20Champion&descSize=16&descAlignY=55" />
 
 <p align="center">
-  <a href="https://folks-iwd.github.io"><img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" /></a>&nbsp;
+  <a href="https://folks-iwd.github.io"><img src="https://img.shields.io/badge/Portfolio-2d8a5e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/knani-alaaeddine-b99b30189"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:knaniaalaeddine@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://folks-iwd.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
@@ -18,7 +18,6 @@ class OffensiveSecurityEngineer:
         self.role     = "Offensive Security Engineer @ ODDO BHF"
         self.location = "Tunisia"
         self.cves     = 4
-        self.ctf_wins = 7
 
     def skills(self):
         return {
@@ -76,14 +75,14 @@ me = OffensiveSecurityEngineer()
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> CTF Achievements
 
 <table>
-<tr><td>&#127942;</td><td><b>1st Place</b></td><td>CSAW MENA Finals 2024</td><td>Abu Dhabi</td></tr>
-<tr><td>&#127942;</td><td><b>1st Place</b></td><td>CyberTek CTF 2025</td><td></td></tr>
-<tr><td>&#127942;</td><td><b>1st Place</b></td><td>SPARK CTF 2024</td><td></td></tr>
-<tr><td>&#127942;</td><td><b>1st Place</b></td><td>Al-Farahidi Cybersecurity 2023</td><td>Arab ICT Org</td></tr>
-<tr><td>&#127942;</td><td><b>1st Place</b></td><td>CyberTalents Tunisia 2020</td><td>Qualified to Egypt</td></tr>
-<tr><td>&#127942;</td><td><b>1st Regional / 5th Worldwide</b></td><td>Securinets CTF 2020</td><td></td></tr>
-<tr><td>&#127942;</td><td><b>1st Place</b></td><td>National Cybersecurity Congress 2020</td><td></td></tr>
-<tr><td>&#129352;</td><td><b>2nd Place</b></td><td>CSAW MENA 2022</td><td>Qualified to Dubai</td></tr>
+<tr><td>&#127942;</td><td><b>1st Place</b></td><td>CSAW MENA Finals 2024</td></tr>
+<tr><td>&#127942;</td><td><b>1st Place</b></td><td>CyberTek CTF 2025</td></tr>
+<tr><td>&#127942;</td><td><b>1st Place</b></td><td>SPARK CTF 2024</td></tr>
+<tr><td>&#127942;</td><td><b>1st Place</b></td><td>Al-Farahidi Cybersecurity 2023</td></tr>
+<tr><td>&#127942;</td><td><b>1st Place</b></td><td>CyberTalents Tunisia 2020</td></tr>
+<tr><td>&#127942;</td><td><b>1st Regional / 5th Worldwide</b></td><td>Securinets CTF 2020</td></tr>
+<tr><td>&#127942;</td><td><b>1st Place</b></td><td>National Cybersecurity Congress 2020</td></tr>
+<tr><td>&#129352;</td><td><b>2nd Place</b></td><td>CSAW MENA 2022</td></tr>
 </table>
 
 <br>
